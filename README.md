@@ -1,6 +1,14 @@
-React Calculator App
+ Live Demo
+ 
+🌐 React Calculator: (https://react-calculator-002.netlify.app/)
+
+----
+
+🧮 React Calculator App
 
 A simple calculator built using React.js and Tailwind CSS with dark mode support.
+
+----
 
 🚀 Features
 
@@ -12,6 +20,8 @@ Dark / Light mode
 
 Separate expression & result display
 
+----
+
 🛠 Tech Stack
 
 React.js
@@ -20,12 +30,16 @@ JavaScript
 
 Tailwind CSS
 
-▶ Run Locally
+----
+
+💻 Run Locally
 
 npm install
 
 npm run dev
 
-Author
+----
+
+👤 Author
 
 Diya Raut
